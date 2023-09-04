@@ -1,0 +1,32 @@
+{
+    "de":{
+        "greeting":"Wilkommen auf Florian's Webpage!",
+        "aboutMe":"Über mich: ",
+        "projects":"Meine Projekte: ",
+        "contact":"Kontaktiere mich: ",
+        "contactFormular":"Kontakt-Formular",
+        "contactOr":"oder nutze das  ",
+        "mySkills":"Meine Skills: ",
+        "aboutMeContent":"",
+        "image":"Ein Bild aus meinem Projekt ",
+        "description":"Beschreibung: ",
+        "techStack":"Genutzte Techs: ",
+        "projectLinks":"Links zu diesem Projekt: ",
+        "gitHubFrontend":"GitHub-Page für das Frontend: "
+    },
+    "en":{
+        "greeting":"Welcome to Florian's Webpage!",
+        "aboutMe":"About me: ",
+        "projects":"My projects: ",
+        "contact":"Contact me: ",
+        "contactFormular":"Contact-Formular",
+        "contactOr":"or use the ",
+        "mySkills":"my Skills: ",
+        "aboutMeContent":"",
+        "image":"An image of my project called ",
+        "description":"Description: ",
+        "techStack":"Used Techs: ",
+        "projectLinks":"Links for this project: ",
+        "gitHubFrontend":"GitHub-Page for the frontend: "
+    }
+}
